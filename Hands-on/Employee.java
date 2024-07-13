@@ -71,7 +71,6 @@ class TestEmployee
 		System.out.println("Name: "+E.getEmployeeName());
 		System.out.println("Age: "+E.getEmployeeaAge());
 		System.out.println("Address: "+E.getEmployeeAddress());
-		System.out.println("PhoneNo: "+E.getEmployeePhoneNo());
 		
 	}
 }
